@@ -1,1 +1,36 @@
+As a test-taker
+I want to access the technical and aptitude test (TAT) app at https://vidyarjan.academy
 
+I want to be able to register and create an account on the TAT app.
+ 
+ I want to log in to the TAT app using my credentials.
+ 
+ I want to see instructions and guidelines for the TAT before starting the test
+ 
+  I want to start the TAT and be presented with multiple-choice questions.
+  
+  I want the questions to be section-wise and presented in a logical order.
+  
+  I want to select an option for each question and move to the next question.
+  
+ I want to be able to review and change my answers before submitting the test
+   
+   I want to submit the test and receive a confirmation message.
+    
+    I want to access the TAT app as an administrator.
+    
+    I want to view and manage user accounts and their test data.
+    
+     I want to upload a text file containing section-wise multiple-choice questions.
+     
+      I want the app to read the questions from the uploaded file and display them to the test-takers accordingly.
+      
+      I want to view section-wise scores numerically for each test-taker
+      
+       I want to view section-wise scores graphically for each test-taker.
+       
+       I want the test report to be visible to me only and not to the test-takers.
+       
+These user stories outline the main functionalities and features that the TAT app should provide to both test-takers and admin users. 
+They cover aspects such as registration, login, test-taking experience, question presentation, answer submission, and admin features like question management and test result visualization.       
+       
